@@ -1,0 +1,13 @@
+
+
+
+
+**** This project is almost complete ****
+
+Project made -> php
+Database connectivity -> yes
+Database used -> phpmyadmin
+
+In this project there is small error of mysql and mysqli, I am little bit 
+confuse to solve this problem. 
+On the countary frontend, database and programing part is completed.
