@@ -1,9 +1,4 @@
 
-
-
-
-**** This project is almost complete ****
-
 Project made -> php
 Database connectivity -> yes
 Database used -> phpmyadmin
